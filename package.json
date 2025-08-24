@@ -1,0 +1,17 @@
+{
+  "name": "netlify-vite-plugin-serve-dist-issue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@netlify/vite-plugin": "^2.5.5",
+    "prettier": "^3.6.2",
+    "vite": "^5.4.19"
+  }
+}
